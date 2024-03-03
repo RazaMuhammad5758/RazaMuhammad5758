@@ -4,16 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/RazaMuhammad5758/repo-name)](https://github.com/RazaMuhammad5758/repo-name/blob/master/LICENSE)
 
 
-Welcome to my GitHub repository!
 
-## Description
-
-This repository contains [describe what your project is about or what you'll be sharing].
-
-## Getting Started
-
-To get started with this project, simply [provide instructions on how to install or use your project, if applicable].
-## Trophy Case
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RazaMuhammad5758)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -23,12 +14,9 @@ To get started with this project, simply [provide instructions on how to install
 
 ## Contributing
 
-If you'd like to contribute to this project, feel free to [provide guidelines or instructions for potential contributors].
+If you'd like to contribute to this project, feel free to [Use GitHub To explore THe Coding World].
 
-## License
-
-This project is licensed under the [insert license name]. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [insert contact information].
+If you have any questions or suggestions, feel free to contact me at [waistband161@gmail.com].
