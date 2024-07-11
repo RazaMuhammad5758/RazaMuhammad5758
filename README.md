@@ -18,6 +18,5 @@ If you have any questions or suggestions, feel free to contact me at [waistband1
 https://github-readme-streak-stats.herokuapp.com/?user=RazaMuhammad5758
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazaMuhammad5758)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazaMuhammad5758&theme=dark&hide_border=true)
 
 
