@@ -1,11 +1,11 @@
-![Profile Banner](https://raw.githubusercontent.com/YourUsername/YourRepositoryName/main/path/to/your/image.png)
+![Profile Banner]([https://raw.githubusercontent.com/YourUsername/YourRepositoryName/main/path/to/your/image.png](https://github.com/RazaMuhammad5758/cover_pic/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.png))
 
 [![GitHub followers](https://img.shields.io/github/followers/RazaMuhammad5758?style=social)](https://github.com/RazaMuhammad5758)
 [![GitHub issues](https://img.shields.io/github/issues/RazaMuhammad5758/repo-name)](https://github.com/RazaMuhammad5758/repo-name/issues)
 [![GitHub license](https://img.shields.io/github/license/RazaMuhammad5758/repo-name)](https://github.com/RazaMuhammad5758/repo-name/blob/master/LICENSE)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RazaMuhammad5758)](https://github.com/ryo-ma/github-profile-trophy)
-
+## 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=RazaMuhammad5758&theme=onedark)
 # Hi there, I'm Raza Muhammad! 👋
 
 I'm a passionate developer constantly learning and working on exciting projects. Welcome to my GitHub profile!
@@ -27,8 +27,7 @@ I'm a passionate developer constantly learning and working on exciting projects.
 ![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazaMuhammad5758&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaMuhammad5758&layout=compact&theme=radical)
 
-## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=RazaMuhammad5758&theme=onedark)
+
 
 ## 📫 Contact
 If you have any questions or suggestions, feel free to contact me at [waistband161@gmail.com](mailto:waistband161@gmail.com).
