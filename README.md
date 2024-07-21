@@ -14,7 +14,7 @@ I'm a passionate developer constantly learning and working on exciting projects.
 ## 🚀 About Me
 - 🌱 I’m currently learning **React.js**, **JavaScript**, **PostgreSQL**, and **SCSS**.
 - 👨‍💻 I’m working on a social media app using these technologies.
-- 💬 Ask me about **web development**, **JavaScript**, or **backend development**.
+- 💬 Ask me about **web development**, **JavaScript**, and **backend development**.
 - 📫 How to reach me: [razamd7714@gmail.com](mailto:razamd7714@gmail.com).
 
 ## 🔧 Technologies & Tools
