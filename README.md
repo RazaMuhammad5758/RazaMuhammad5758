@@ -11,7 +11,7 @@
 
 I'm a passionate developer constantly learning and working on exciting projects. Welcome to my GitHub profile!
 
-## 🚀 About M
+## 🚀 About Me
 - 🌱 Currently learning **React.js**, **JavaScript**, **PostgreSQL**, **MongoDB**, and **SCSS**.
 - 👨‍💻 I’m building a **social media app** with **React**, **Node.js**, and **PostgreSQL**, integrating **MongoDB** for flexibility.
 - 💬 Ask me about **web development**, **JavaScript**, **backend development**, and **database integration**.
