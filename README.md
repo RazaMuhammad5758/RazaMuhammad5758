@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/RazaMuhammad5758/repo-name)](https://github.com/RazaMuhammad5758/repo-name/issues)
 [![GitHub license](https://img.shields.io/github/license/RazaMuhammad5758/repo-name)](https://github.com/RazaMuhammad5758/repo-name/blob/master/LICENSE)
 
-## 🏆 Achievement
+## 🏆 Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=RazaMuhammad5758&theme=onedark)
 
 # Hi there, I'm Raza Muhammad! 👋
