@@ -25,8 +25,8 @@ I'm a passionate developer constantly learning and working on exciting projects.
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://git-readme-streak-stats.herokuapp.com/?user=RazaMuhammad5758)](https://git.io/streak-stats)
-![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazaMuhammad5758&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RazaMuhammad5758&theme=radical&hide_border=false)](https://git.io/streak-stats)  
+![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazaMuhammad5758&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaMuhammad5758&layout=compact&theme=radical)
 
 ## 📫 Contact
@@ -34,7 +34,7 @@ Feel free to reach out to me for questions or collaborations:
 📧 [razamd7714@gmail.com](mailto:razamd7714@gmail.com)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/raza-muhammad-113915219)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raza-muhammad-113915219)
 
 ## 💡 Fun Fact
 - 🎮 When I'm not coding, I'm experimenting with game development and exploring new technologies.
