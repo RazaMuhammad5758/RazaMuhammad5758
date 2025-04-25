@@ -7,7 +7,7 @@
 ## 🏆 Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=RazaMuhammad5758&theme=onedark)
 
-# Hi there, I am Raza Muhammad! 👋
+# Hi there, I'm Raza Muhammad! 👋
 
 I'm a passionate developer constantly learning and working on exciting projects. Welcome to my GitHub profile!
 
